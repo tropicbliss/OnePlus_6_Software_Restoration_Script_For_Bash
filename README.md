@@ -1,7 +1,7 @@
 # OnePlus 6 Software Restoration Script For Bash
 This is basically a port of the script that XDA Developers' user mauronofrio created to help install stock Oxygen OS ROMs for OnePlus 6 through Fastboot, but now for Linux (possibly macOS).
 
-For more info, click [here](https://forum.xda-developers.com/oneplus-6/how-to/rom-stock-fastboot-roms-oneplus-6-t3796665)
+For more info, click [here](https://forum.xda-developers.com/oneplus-6/how-to/rom-stock-fastboot-roms-oneplus-6-t3796665).
 
 This script basically installs all the partitions (including the persist and critical partitions) and locks your bootloader at the end to ensure that your OnePlus 6's software will be returned to normal, at a similar condition of what you got when you bought it from a store.
 
