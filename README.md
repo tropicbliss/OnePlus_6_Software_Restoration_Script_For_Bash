@@ -18,6 +18,10 @@ Instructions:
 Note: If you recieve a permissions error, run this command with "sudo".
 
 7. You should start to see commands running. Obviously, do not unplug your phone if you want any further trouble.
+
+Note: "Invalid sparce file format at header magic" is not an error, you need to wait a bit when you see that string, just wait.
+-mauronofrio
+
 8. When the message "Waiting 30 seconds for TWRP to boot up..." appears, make sure that after your phone boots into TWRP, immediately dismiss any startup messages by swiping the slider bars and if your device is password protected immediately enter your login password or PIN within this 30 seconds.
 9. If everything goes well, commands will start to run again. When the device reboots and a message prompting you to lock the bootloader appears, use the volume and power buttons to select the option to lock the bootloader.
 10. Device should reboot a few times (at least for me) and you should enter the Android setup screen once your OnePlus 6 boots up.
